@@ -65,6 +65,7 @@ En `index.html` hay comentarios `<!-- EDITA AQUÍ -->` que marcan los puntos don
 
 - **Email:** yeimertorres30@gmail.com
 - **GitHub:** [github.com/yeimertorres30-blip](https://github.com/yeimertorres30-blip)
+- **Enlace porafolio:** https://yeimertorres30-blip.github.io/Portafolio/
 
 ---
 © Yeimer Torres. Hecho con HTML, CSS y JavaScript puro.
